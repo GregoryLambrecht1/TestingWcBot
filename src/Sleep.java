@@ -21,8 +21,3 @@ public final class Sleep extends ConditionalSleep {
     }
 }
 
-//
-// Entity tree = getObjects().closest("Tree");
-//if (tree != null && tree.interact("Chop down")) {
-//        Sleep.sleepUntil(() -> myPlayer().isAnimating() || !tree.exists(), 5000);
-//        }
